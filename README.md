@@ -14,6 +14,7 @@ Welcome to the Strapi meetup repositories. Our goal is to provide ressources and
 - [Strapi Paris](https://www.meetup.com/Strapi-paris)
 - [Strapi London](https://www.meetup.com/strapi-london/)
 - [Strapi Toronto](https://www.meetup.com/Strapi-Toronto/)
+- [Strapi Sydney](https://www.meetup.com/Sydney-Strapi-headless-CMS/)
 
 ## Online meetup 
 
