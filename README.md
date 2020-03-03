@@ -12,7 +12,7 @@ Welcome to the Strapi meetup repositories. Our goal is to provide ressources and
 
 - [Strapi San Francisco](https://www.meetup.com/strapi-san-francisco/)
 - [Strapi Paris](https://www.meetup.com/Strapi-paris)
-_ [Strapi London](https://www.meetup.com/strapi-london/)
+- [Strapi London](https://www.meetup.com/strapi-london/)
 - [Strapi Toronto](https://www.meetup.com/Strapi-Toronto/)
 
 ## Online meetup 
