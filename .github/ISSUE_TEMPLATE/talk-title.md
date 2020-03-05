@@ -22,7 +22,7 @@ assignees: vcoisne
 - **Length:** 10, 30 minutes,  1 hour, etc
 - **Availability**: Dates that work best for you
 - **Country, City:** Name fo the country, city where you'd like to present 
-- ** Virtual:** I'm ok to present this talk virtually too or not
+- **Virtual:** I'm ok to present this talk virtually too or not
 
 # Takeaways 
 
