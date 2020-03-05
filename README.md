@@ -2,9 +2,9 @@
 
 Learn, share and collaborate with the community at Strapi meetups. Contributions welcome.
 
-Welcome to the Strapi meetup repositories. Our goal is to provide ressources and support to everyone who wants to bring the community together by organizing Strapi meetups. Here is a list of ressources we have created to provide guidance and support on the organization of Strapi meetups:
+Welcome to the Strapi meetup repositories. Our goal is to provide resources and support to everyone who wants to bring the community together by organizing Strapi meetups. Here is a list of resources we have created to provide guidance and support on the organization of Strapi meetups:
 
-- If you have any questions about organizing Strapi meetups please check out the [Meetup FAQ](https://github.com/strapi/strapi-meetups/blob/master/meetup-faq.md) before creating an issue on this repsoitory. 
+- If you have any questions about organizing Strapi meetups please check out the [Meetup FAQ](https://github.com/strapi/strapi-meetups/blob/master/meetup-faq.md) before creating an issue on this repository. 
 - Here is the [Strapi Community Leader program guidelines](https://github.com/strapi/strapi-meetups/blob/master/guidelines.md)
 
 
