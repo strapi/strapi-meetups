@@ -1,6 +1,6 @@
 ### **What should I do if i'm interested in launching a Strapi User Group ?**
 
-Send an email to hi@strapi.io to let the Strapi team know you're interested in launching a Strapi user group in your city. Our team would be happy to support you as much as possible with finding speakers, sponsors, venues and overall events logistics and promotion. 
+Create an issue with the right template in this repository and send an email to hi@strapi.io with the link to the issue you just created. We’ll then create the group on meetup.com (so that you don’t have to pay for the monthly fees) and add you as an organizer. 
 
 ### **What are the best practices for launching a Meetup Group ?**
 
