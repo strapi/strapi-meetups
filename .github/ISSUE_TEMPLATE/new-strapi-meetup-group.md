@@ -10,11 +10,11 @@ assignees: vcoisne
 
 # Background Information
 
-- *Name*: Your First and Last Name
-- *Company:* Name of the organization you work for
-- *Country, City:* Name fo the country, city where you'd like to start a group
-- *Personal Website or blog*: yourwebsite.com if applicable
-- *Twitter:* @yourhandle
+- **Name**: Your First and Last Name
+- **Company:** Name of the organization you work for
+- **Country, City:** Name fo the country, city where you'd like to start a group
+- **Personal Website or blog:** yourwebsite.com if applicable
+- **Twitter:** @yourhandle
 
 # Strapi support needed
 
