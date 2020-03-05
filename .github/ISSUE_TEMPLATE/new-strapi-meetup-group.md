@@ -1,7 +1,7 @@
 ---
 name: New Strapi meetup group
-about: Use this template to request the creation of a new Strapi user group in your
-  City
+about: Use this template if you're interested in launching a new Strapi user group
+  in your city
 title: "[New group] Country, City name"
 labels: ''
 assignees: vcoisne
