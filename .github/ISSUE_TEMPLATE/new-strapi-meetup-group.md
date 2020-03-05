@@ -22,6 +22,7 @@ assignees: vcoisne
 - [ ] Finding host venues
 - [ ] Finding sponsors
 - [ ] Promoting my events
+- [ ] I only need Strapi swag
 
 # Community Guidelines
 
