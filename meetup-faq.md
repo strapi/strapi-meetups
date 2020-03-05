@@ -50,3 +50,8 @@ Although we hope to collaborate with all Community Leaders in the long term, we 
 ### **Who should I contact to host, sponsor or give a talk at a Strapi meetup?**
 
 We are always looking for meetup venues, sponsor and speaker and very much appreciate any support we can get in brining the Strapi community together. Please send an email to hi@strapi.io or contact directly the Strapi Community Leader on [meetup.com](http://meetup.com)
+
+### **What should I do if I’m interested in speaking at a Strapi meetup?**
+
+Create an issue on the strapi-meetups repository and send an email to the community leader in charge of the meetup group you want to speak at with the link to the issue you just created. 
+
