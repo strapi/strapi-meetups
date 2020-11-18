@@ -4,7 +4,7 @@ Learn, share and collaborate with the community at Strapi meetups. Contributions
 
 Welcome to the Strapi meetup repositories. Our goal is to provide resources and support to everyone who wants to bring the community together by organizing Strapi meetups. Here is a list of resources to help you get started:
 
-- - Make use of the Strapi [Meetup Kit](https://github.com/strapi/strapi-meetups/blob/master/meetup-ket.md) to help you get started with giving presentations on various Strapi topics at your meetups.
+- Make use of the Strapi [Meetup Kit](https://github.com/strapi/strapi-meetups/blob/master/meetup-ket.md) to help you get started with giving presentations on various Strapi topics at your meetups.
 - If you have any questions about organizing Strapi meetups please check out the [Meetup FAQ](https://github.com/strapi/strapi-meetups/blob/master/meetup-faq.md) before creating an issue on this repository. 
 - Here is a list of [Strapi meetup guidelines](https://github.com/strapi/strapi-meetups/blob/master/guidelines.md).
 
