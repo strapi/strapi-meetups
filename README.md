@@ -31,7 +31,7 @@ We host an Online Meetup on the **3rd Thursday of every month at 8am PST**. We c
 For general help using Strapi, please refer to [the official Strapi documentation](https://strapi.io/documentation/). For additional help online, you can use one of these channels to ask a question:
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/strapi)
-- [Slack](http://slack.strapi.io) (Highly recommended for faster support)
+- [Discord](https://discord.com/invite/WFrDyNzNDU) (Highly recommended for faster support)
 - [Spectrum](https://spectrum.chat/strapi)
 - [GitHub](https://github.com/strapi/strapi) (Bug reports, contributions)
 - [ProductBoard](https://portal.productboard.com/strapi/tabs/2-under-consideration) (Roadmap, Feature requests)
