@@ -14,7 +14,6 @@ Welcome to the Strapi meetup repositories. Our goal is to provide resources and 
 - [Strapi London](https://www.meetup.com/strapi-london/)
 - [Strapi CZ (Brno + Prague)](https://www.meetup.com/Strapi-CZ/)
 
-
 ## Online meetup 
 
 We host an Online Meetup on the **3rd Thursday of every month at 8am PST**. We create [issues](https://github.com/strapi/strapi-meetups/issues/1) to discuss what topics should be covered next. Please feel free to suggest topics you're interested in :)
