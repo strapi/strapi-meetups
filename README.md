@@ -11,16 +11,8 @@ Welcome to the Strapi meetup repositories. Our goal is to provide resources and 
 
 ## Active Strapi meetup groups include: 
 
-- [Strapi San Francisco](https://www.meetup.com/strapi-san-francisco/)
-- [Strapi Paris](https://www.meetup.com/Strapi-paris)
 - [Strapi London](https://www.meetup.com/strapi-london/)
-- [Strapi Toronto](https://www.meetup.com/Strapi-Toronto/)
-- [Strapi Sydney](https://www.meetup.com/Sydney-Strapi-headless-CMS/)
-- [Strapi Lisbon](https://www.meetup.com/Strapi-Lisbon/)
-- [Strapi Frankfurt](https://www.meetup.com/Strapi-Frankfurt/)
 - [Strapi CZ (Brno + Prague)](https://www.meetup.com/Strapi-CZ/)
-- [Strapi Melbourne](https://www.meetup.com/strapi-melbourne)
-- [Strapi Karachi](https://www.meetup.com/strapi-karachi/)
 
 
 ## Online meetup 
